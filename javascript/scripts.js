@@ -19,9 +19,9 @@ const init = () => {
     let name = "Mike";
     let bornInMadison = false;
 
-    console.log(`ID: ` + `${id}`);
-    console.log(`Name: ` + `${name}`);
-    console.log(`Born in Madison: ` + `${bornInMadison}`);
+    console.log(`ID: ${id}`);
+    console.log(`Name: ${name}`);
+    console.log(`Born in Madison: ${bornInMadison}`);
 
     printLabTitle();
     
